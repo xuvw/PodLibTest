@@ -1,0 +1,22 @@
+{
+  "name": "PodLibTest",
+  "version": "0.0.1",
+  "summary": "A short description of PodLibTest.",
+  "description": "f;fa;fka;fk;a\nasdf;afk;afa;fk;a\nasfa;lfka;fa;fj",
+  "homepage": "http://EXAMPLE/PodLibTest",
+  "license": "MIT",
+  "authors": {
+    "ke he": "smileshitou@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xuvw/PodLibTest.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Classes/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
